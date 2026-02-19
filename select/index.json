@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "働く男",
+  "base_artist": "ユニコーン",
+  "createdAt": "2026-02-19T12:35:56.700092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "働く男 (働きマン)",
+      "artist": "aya feat. ちひろ",
+      "has_synced": false,
+      "path": "select/01_働く男_(働きマン)_aya_feat._ちひろ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "働く男",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/02_働く男_PUFFY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "働く男",
+      "artist": "ユニコーン",
+      "has_synced": false,
+      "path": "select/pl_01_働く男_ユニコーン.txt"
+    }
+  ]
+}
